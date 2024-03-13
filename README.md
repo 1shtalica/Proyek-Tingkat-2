@@ -9,3 +9,4 @@ Anggota Kelompok:
 
 - [Kanban Board](https://adibfaizulhaq05.atlassian.net/jira/software/projects/PT2/boards/2?assignee=unassigned)
 - [Dokumen Inisialisasi Proyek](https://docs.google.com/document/d/13KQQAasxNABEh-jzmozCRlmCHFWIKkUcW9O8GzPMlrY/edit?usp=sharing)
+- [SRS](https://docs.google.com/document/d/1c5unVoiZ3041p3Mr-6bhLpYMhp8dSNzEf2yIvSyPxtA/edit)
